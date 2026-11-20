@@ -1,0 +1,5 @@
+venv/
+data/postings.csv
+data/emb.npy
+data/jobs.db
+__pycache__/
