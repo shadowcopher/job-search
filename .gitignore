@@ -1,5 +1,5 @@
 venv/
 data/postings.csv
-data/emb.npy
-data/jobs.db
+profile.json
 __pycache__/
+.env
